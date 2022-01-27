@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+    margin: 0;
+
+}
+h2{
+    color: rgb(250, 72, 7);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    background-color: darksalmon;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(108, 136, 108);
+    font-family: cursive;
+    font-size: 70px;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 10px;
+}
+p{
+  color: rgb(73, 117, 86);
+    padding-top: 1%;
+    font-size: 18px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    width: 350px;
+    height: 250px;
+    padding-left: 430px;
+}
+li{
+    color: rgb(73, 117, 86);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
