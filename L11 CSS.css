@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+*{
+    margin: 0%;
+}
+#Heading{
+    font-family: 'Supermercado One', cursive;
+    font-size: 80px;
+    color: aliceblue;
+    background-color: rgb(255, 213, 213);
+    text-align: center;
+}
+#Image{
+    padding: 2%;
+}   
+#Paragraph{
+    margin: 1%;
+    background-color: rgb(253, 216, 177);
+    color: rgb(0, 166, 196);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+}
+#Groups{
+color: rgb(0, 166, 196);
+font-size: 26px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: rgb(255, 224, 191);
+margin: 1%;
+margin-top: 2%;
+margin-bottom: 2%;
+}
+#Mammals{
+    color: rgb(192, 87, 25);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    background-color: rgb(253, 152, 115);
+    text-align: center;
+    margin: 1%;
+}
+#mammals{
+    font-family: cursive;
+    font-size: 50px;
+    color: rgb(155, 70, 70);
+    padding: 1%;
+    padding-top: 0%;
+    background-image: url('L11\ elephant.jfif   ');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Reptiles{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 1%;
+    color: rgb(38, 51, 14);
+    background-color: rgb(76, 122, 54);
+}
+#reptiles{
+    font-family: fantasy;
+    font-size: 50px;
+    padding: 1%;
+    padding-top: 0%;
+    color: rgb(87, 39, 0);
+    background-image: url('L11\ snake.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Birds{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 1%;
+    color: rgb(137, 200, 255);
+    background-color: rgb(217, 255, 255);
+}
+#birds{
+    font-family: sans-serif;
+    font-size: 50px;
+    padding: 1%;
+    padding-top: 0%;
+    color: cornflowerblue;
+    background-image: url('L11\ dove.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Amphibians{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 1%;
+    color: rgb(92, 58, 112);
+}
+#amphibians{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 50px;
+    padding: 1%;
+    padding-top: 0%;
+    color: rgb(99, 77, 77);
+    background-color: rgb(212, 255, 137);
+    background-image: url('L11\ frog.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Insects{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 1%;
+    color: rgb(247, 203, 138);
+    background-color: crimson;
+}
+#insects{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(231, 201, 28);
+    padding: 1%;
+    padding-top: 0%;
+    background-image: url('L11\ grasshopper.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Fish{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 1%;
+    background-color: aqua;
+    color: rgb(47, 47, 255);
+}
+#fish{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(142, 213, 255);
+    padding: 1%;
+    padding-top: 0%;
+    background-image: url('L11\ seahorse.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Arthropods{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 1%;
+    background-color: black;
+    color: whitesmoke;
+}
+#arthropods{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    padding: 1%;
+    padding-top: 0%;
+    background-image: url('L11\ scorpion.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#t{
+    padding-left: 1%;
+}
+footer{
+    font-size: 50px;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+}
